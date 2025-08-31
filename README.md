@@ -1,7 +1,7 @@
 # Hi there, I'm Anuj Pal 👋  
 
-🎓 Diploma in Computer Science (CSE) | Aspiring Tech Professional  
-💡 Beginner Python Developer | Learning step by step towards AI & Software Development  
+🎓 Diploma in Computer Science (CSE) | Aspiring Tech Professional!  
+💡 Beginner Python Developer | Learning step by step towards AI & Software Development ! 
 
 ---
 
